@@ -300,6 +300,9 @@ img {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
+.portfolio-item-text:hover {
+  transform: translateY(0%);
+}
 .pit {
   background: var(--NAVY-BLUE, #2e2f42);
   padding: 100px 0;
@@ -391,7 +394,7 @@ img {
 .new-text:hover {
   transform: translateY(0%);
 }
-.logo-par {
+.logo-paragraf {
   margin-right: 120px;
 }
 .footer-text {
