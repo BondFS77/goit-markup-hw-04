@@ -234,6 +234,9 @@ img {
 .svg-icons {
   fill: #f4f4fd;
 }
+.section-container-new {
+  padding: 32px 0;
+}
 .portfolio {
   background: #fff;
   padding-top: 120px;
