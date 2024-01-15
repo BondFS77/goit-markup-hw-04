@@ -306,6 +306,7 @@ img {
 .pit {
   background: var(--NAVY-BLUE, #2e2f42);
   padding: 100px 0;
+  display: flex;
 }
 .footer-item-text {
   color: var(--CLOUD, #f4f4fd);
@@ -429,8 +430,6 @@ img {
 }
 .footer-soc-icon {
   fill: #f4f4fd;
-  display: flex;
-  align-items: baseline;
 }
 .all-pit {
   display: flex;
